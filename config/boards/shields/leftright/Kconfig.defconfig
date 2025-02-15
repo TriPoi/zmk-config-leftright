@@ -1,7 +1,6 @@
 if SHIELD_LEFTRIGHT_LEFT
 
-# Name must be less than 16 characters long!
-config ZMK_LEFTRIGHT
+config ZMK_KEYBOARD_NAME
     default "LR Keyboard"
 
 config ZMK_SPLIT_ROLE_CENTRAL
