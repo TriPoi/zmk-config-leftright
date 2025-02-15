@@ -13,3 +13,5 @@ if SHIELD_LEFTRIGHT_LEFT || SHIELD_LEFTRIGHT_RIGHT
 
 config ZMK_SPLIT
     default y
+
+endif
